@@ -1,0 +1,1 @@
+utils::globalVariables(c("is", "stats", "cor", "lm", "prcomp", "predict", "sd"))
